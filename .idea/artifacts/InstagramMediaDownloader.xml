@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InstagramMediaDownloader">
+    <output-path>$PROJECT_DIR$/out/artifacts/InstagramMediaDownloader</output-path>
+    <root id="archive" name="InstagramMediaDownloader.jar">
+      <element id="module-output" name="Instagram Media Downloader" />
+    </root>
+  </artifact>
+</component>
